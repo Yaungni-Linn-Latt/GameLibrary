@@ -9,7 +9,7 @@
 <h3 style="color:#FF6363">Design</h3>
 <p>The program used OOP. Therefore it has classes-Library class, Game class, Action class,Moba class, Openworld class, Rpg class and shooter class. The Game class is a polymorphic base class for Action, Moba, Openworld, Rpg, Shooter classes. Those five derived classes represent one type of games each.</p>
 
-![Class Inheritance](Games.png)
+![Class Inheritance](Games.svg)
 
 <p>Library class is for storing the games class objects. From the library, users can interact with those objects. Library stores them with a polymorphic dynamic array. When a user starts the program a menu will pop up and display a list of commend to use the library and in this way the user will get access to the data that library stores.</p>
 
