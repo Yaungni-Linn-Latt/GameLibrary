@@ -104,7 +104,7 @@ private:
 
 <p style="colour:#F8B400">"Menu function flowchart"</p>
 
-![Class Inheritance](menufun.png)
+![Class Inheritance](code2flow_ZCQPQZ.png)
 
 
 <p>If an error is thrown, catch in the main function will process the error.</p>
